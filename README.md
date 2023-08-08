@@ -1,6 +1,8 @@
 # machine-learning-ia
  Fundamentals machine learning and AI
 
+> pip install scikit-learn
+
 
 ### IA forte e IA fraco
 - IA Forte - baseado em um humanóide, um ser conciente porem sem ser humano, auto-aprendizado
@@ -43,3 +45,9 @@
 - baixa qualidade nos dados
 - características irrelevantes
 - overfitting e underfitting
+
+### Estrutura de algoritmos em treinos de ML
+- Loss - quanto em média ele está errando nas previsões
+- Hiper Parametros - Dentro do algoritmo ele grava modelos de parametros que se da o nome citado, para se basear seu conhecimento
+- Root Mean Square Error - equação de calculo de regressão
+    - quanto elevado ao quadrado uma média, tem-se um aumento no peso do cálculo
